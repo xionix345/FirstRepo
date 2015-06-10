@@ -6,6 +6,7 @@ public class Lesson1 {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Hello wordl! Let's start Java!!");
+		System.out.println("Second commit");
 	}
 
 }
